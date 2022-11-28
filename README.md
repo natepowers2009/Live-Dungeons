@@ -1,2 +1,6 @@
 # Live-Dungeons
 Code for adding dungeons to cookie clicker
+
+
+
+I OWN NONE OF THIS CODE, ALL I DID WAS EDIT IT FOR THE ADDITIONS I MADE TO THE ORIGINAL DUNGEON SCRIPTS
